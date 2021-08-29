@@ -154,7 +154,7 @@ section {
         border-color: #fce138;
     }
     .secondary-border {
-        border-color: #fce138;
+        border-color: #39a6b2;
     }
 
 .trainers {
@@ -218,4 +218,17 @@ section {
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
-}  
+}
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.contact-info a {
+    color: #fce138;
+} 
