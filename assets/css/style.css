@@ -60,20 +60,6 @@ footer {
 section {
     padding: 60px;
 }
-    .section-title {
-        font-size: 55px;
-        color: #024e76;
-        margin-bottom: 35px;
-        padding: 0 100px 20px 100px;
-        display: inline-block;
-        border-bottom: 3px solid;
-    }
-    .primary-border {
-        border-color: #fce138;
-    }
-    .secondary-color {
-        border-color: #fce138;
-    }
 
 /* Hero style start*/
 .hero {
@@ -133,13 +119,10 @@ section {
         font-size: 20px;
         margin: 0 auto;
     }
-.steps {
-    text-align: center;
-    background: #fce138;
+    .steps {
+        text-align: center;
+        background: #fce138;
 }
-    .steps h2 {
-        
-    }
     .steps div {
         margin-bottom: 80px;
     }
@@ -159,8 +142,26 @@ section {
     .steps span {
         font-size: 38px;
     }
-.trainer {
+    .section-title {
+        font-size: 55px;
+        color: #024e76;
+        margin-bottom: 35px;
+        padding: 0 100px 20px 100px;
+        display: inline-block;
+        border-bottom: 3px solid;
+    }
+    .primary-border {
+        border-color: #fce138;
+    }
+    .secondary-color {
+        border-color: #fce138;
+    }
+
+.trainers {
     text-align: center;
+}
+.trainer {
+    width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
