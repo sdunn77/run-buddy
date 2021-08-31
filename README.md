@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://sdunn77/run-buddy/
+https://sdunn77.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Steven Dunn
